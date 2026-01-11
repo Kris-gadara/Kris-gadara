@@ -1,65 +1,58 @@
 # 👋 Hi, I'm Kris Gadara
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=61DAFB&center=true&vCenter=true&width=600&lines=Developer;MERN+Stack+Enthusiast;Open+Source+Learner;B.Tech+IT+Student)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=61DAFB&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver;Learner)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kris-gadara)
 
----
-
 ## 💻 About Me
 
-I’m a passionate **Developer** and **B.Tech IT student** from **Jamnagar, Gujarat**, focused on building real-world applications using modern web technologies.
+I’m a **B.Tech IT Student & Developer** from **Jamnagar, Gujarat**, passionate about building scalable web applications, learning new technologies, and creating meaningful software.
 
-- 🎓 B.Tech Information Technology  
-- 🚀 Interested in **Full Stack & MERN Development**  
-- 🛠 Love turning ideas into working products  
-- 🌱 Constantly learning and improving  
-- 🤝 Open to collaboration and open-source contributions  
+- 🌱 Currently expanding knowledge in **MERN Stack**, API development & system design  
+- 🚀 Focused on building real-world solutions  
+- 🤝 Always excited to collaborate on projects and open source
 
-🌐 **Portfolio:** https://kris-gadara-portfolio.vercel.app/
+🔗 Portfolio: https://kris-gadara-portfolio.vercel.app/  
+📍 Based in Jamnagar, Gujarat
 
 ---
 
-## 🧑‍💻 Tech Stack & Skills
+## 🛠️ Skills & Technologies
 
-### 💡 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
 ### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
-### 🧩 Backend & Database (MERN)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+### 🧩 Backend & MERN
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-404D59?style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
 ### ⚙ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🚀 Project Showcase
+## 🚀 Projects & Development
 
-### 🔥 Development Projects
-Projects focused on **frontend, backend, and full-stack development**, emphasizing clean UI, functionality, and scalability.
+Here are some of the repositories where I’ve applied my skills:
 
-👉 Explore here:  
-🔗 https://github.com/Kris-gadara?tab=repositories
+🔹 **MERN Projects**
+- Fullstack apps built with MongoDB, Express, React, and Node.js (CRUD, auth, APIs)
 
----
+🔹 **Web Development**
+- UI/UX focused front-end projects using React, CSS, and JavaScript
 
-### 🌐 MERN Stack Projects
-End-to-end applications using **MongoDB, Express, React, and Node.js**, including authentication, APIs, and database integration.
-
-👉 Explore here:  
-🔗 https://github.com/Kris-gadara?tab=repositories
+👉 Explore all my projects here: https://github.com/Kris-gadara?tab=repositories
 
 ---
 
@@ -73,17 +66,12 @@ End-to-end applications using **MongoDB, Express, React, and Node.js**, includin
 
 ## 📫 Connect With Me
 
-- 📧 **Email:** krishgadara0701@gmail.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/kriskumar-gadara-1580b9343  
-- 🌐 **Portfolio:** https://kris-gadara-portfolio.vercel.app/  
+📧 Email: krishgadara0701@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/kriskumar-gadara-1580b9343  
+🌐 Portfolio: https://kris-gadara-portfolio.vercel.app/
 
 ---
 
-## ✨ Quote
+> “Progress is better than perfection.” ✨
 
-> *"Strive for progress, not perfection."*
-
----
-
-⭐ **Thanks for visiting my profile!**  
-Feel free to explore my repositories, star projects, or connect with me 🤝
+⭐️ Thanks for stopping by!
