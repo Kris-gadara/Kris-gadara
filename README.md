@@ -73,13 +73,6 @@
 https://github.com/Kris-gadara?tab=repositories  
 
 ---
-
-# 📊 GitHub Stats  
-
-![Kris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kris-gadara&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kris-gadara&layout=compact)
-
 ---
 
 # 📫 Connect With Me  
