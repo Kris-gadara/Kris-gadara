@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kris Gadara  
+# 👋 Hi, I'm Krish Gadara  
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=0A66C2&center=true&vCenter=true&width=750&lines=AI+%26+ML+Engineer;Python+Developer;Deep+Learning+Enthusiast;Data+Science+Explorer)
 
