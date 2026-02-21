@@ -1,15 +1,18 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- HEADER BANNER -->
+<!-- HEADER -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Krish%20Gadara&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=30&desc=AI%20%26%20ML%20Engineer%20%7C%20Deep%20Learning%20%7C%20NLP%20%7C%20Computer%20Vision&descSize=16&descAlignY=52"/>
+
+# 👋 Hi, I'm Krish Gadara
+
+### `AI & ML Engineer | Deep Learning | NLP | Computer Vision`
 
 <br/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Transforming+Data+into+Intelligence;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Python+Developer+%26+AI+Enthusiast;Building+Real-World+AI+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Transforming+Data+into+Intelligence;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Python+Developer+%26+AI+Enthusiast;Building+Real-World+AI+Solutions" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -41,6 +44,7 @@
 I'm a **B.Tech IT student** from **Jamnagar, Gujarat, India** with a deep passion for **Artificial Intelligence & Machine Learning**. I love building intelligent systems that solve real-world problems.
 
 **🎯 What drives me:**
+
 - 🧠 Passionate about **AI/ML** and making machines smarter
 - 🔬 Specializing in **Deep Learning**, **NLP** & **Computer Vision**
 - 📊 Love turning raw data into meaningful **insights & predictions**
@@ -60,7 +64,7 @@ class KrishGadara:
         self.role = "AI & ML Engineer"
         self.location = "Gujarat, India 🇮🇳"
         self.education = "B.Tech IT"
-        
+
     def skills(self):
         return {
             "languages": ["Python"],
@@ -71,7 +75,7 @@ class KrishGadara:
             "tools": ["Docker", "FastAPI",
                       "Streamlit", "Git"]
         }
-    
+
     def motto(self):
         return "Turning data into intelligence 🚀"
 
@@ -345,7 +349,7 @@ me = KrishGadara()
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kris-gadara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF" alt="GitHub Stats"/>
   &nbsp;
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Kris-gadara&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555" alt="GitHub Streak"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=Kris-gadara&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555" alt="GitHub Streak"/>
 </div>
 
 <br/>
@@ -364,14 +368,14 @@ me = KrishGadara()
 
 <div align="center">
 
-| 🏷️ Domain | 🎯 Focus Areas | 🔧 Technologies |
-|:---|:---|:---|
-| 🔬 **Machine Learning** | Regression, Classification, Clustering | `Scikit-Learn` `XGBoost` `LightGBM` |
-| 🧠 **Deep Learning** | CNN, ANN, Transfer Learning | `TensorFlow` `Keras` `PyTorch` |
-| 💬 **NLP** | Text Classification, Sentiment Analysis, Chatbots | `HuggingFace` `spaCy` `NLTK` |
-| 👁️ **Computer Vision** | Image Classification, Object Detection | `OpenCV` `TensorFlow` |
-| 📊 **Data Analytics** | EDA, Feature Engineering, Visualization | `Pandas` `Matplotlib` `Plotly` |
-| 🌐 **Deployment** | REST APIs, Web Apps, Containerization | `FastAPI` `Streamlit` `Docker` |
+| 🏷️ Domain               | 🎯 Focus Areas                                    | 🔧 Technologies                     |
+| :---------------------- | :------------------------------------------------ | :---------------------------------- |
+| 🔬 **Machine Learning** | Regression, Classification, Clustering            | `Scikit-Learn` `XGBoost` `LightGBM` |
+| 🧠 **Deep Learning**    | CNN, ANN, Transfer Learning                       | `TensorFlow` `Keras` `PyTorch`      |
+| 💬 **NLP**              | Text Classification, Sentiment Analysis, Chatbots | `HuggingFace` `spaCy` `NLTK`        |
+| 👁️ **Computer Vision**  | Image Classification, Object Detection            | `OpenCV` `TensorFlow`               |
+| 📊 **Data Analytics**   | EDA, Feature Engineering, Visualization           | `Pandas` `Matplotlib` `Plotly`      |
+| 🌐 **Deployment**       | REST APIs, Web Apps, Containerization             | `FastAPI` `Streamlit` `Docker`      |
 
 </div>
 
@@ -482,7 +486,7 @@ I'm always excited to collaborate on interesting AI/ML projects and connect with
 <!-- FOOTER -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+---
 
 <div align="center">
   
