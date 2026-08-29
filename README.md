@@ -1,23 +1,27 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
+
 <!-- HEADER -->
+
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-# 👋 Hi, I'm Krish Gadara
+# 👋 Hi, I'm Kriskumar Gadara
 
-### `AI & ML Engineer | Deep Learning | NLP | Computer Vision`
+### `Software Developer | Full Stack Developer | .NET | React.js | Node.js`
 
 <br/>
 
 <!-- TYPING SVG -->
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Transforming+Data+into+Intelligence;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Python+Developer+%26+AI+Enthusiast;Building+Real-World+AI+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=550&height=40&lines=Building+Scalable+Web+Applications;Full+Stack+Development+%7C+.NET+%7C+React.js;Backend+%26+REST+API+Development;Turning+Ideas+into+Real-World+Applications" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <!-- PROFILE VIEWS -->
+
 <img src="https://komarev.com/ghpvc/?username=Kris-gadara&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
@@ -25,13 +29,16 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
+
 <!-- ABOUT ME SECTION -->
+
 <!-- ═══════════════════════════════════════════════════════════════════ -->
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br/>
 
-## 🧑‍💻 &nbsp;About Me
+## 🧑‍💻  About Me
 
 <br/>
 
@@ -41,45 +48,57 @@
 
 ### Hey there! I'm **Krish** 👋
 
-I'm a **B.Tech IT student** from **Jamnagar, Gujarat, India** with a deep passion for **Artificial Intelligence & Machine Learning**. I love building intelligent systems that solve real-world problems.
+I'm a **B.Tech Information Technology student** from **Jamnagar, Gujarat, India**, passionate about **Software Development and Full Stack Web Development**.
+
+I enjoy building practical web applications with modern frontend and backend technologies, designing REST APIs, working with databases, and solving problems through clean and scalable code.
 
 **🎯 What drives me:**
 
-- 🧠 Passionate about **AI/ML** and making machines smarter
-- 🔬 Specializing in **Deep Learning**, **NLP** & **Computer Vision**
-- 📊 Love turning raw data into meaningful **insights & predictions**
-- 🚀 Currently exploring **LLMs & Generative AI**
-- 🏗️ Building **production-ready AI applications**
-- 💡 Believer in open-source & knowledge sharing
+* 💻 Passionate about **Software & Full Stack Development**
+* ⚛️ Building modern UIs with **React.js**
+* ⚙️ Developing backend applications using **.NET & Node.js**
+* 🔗 Designing and integrating **RESTful APIs**
+* 🗄️ Working with **SQL Server & MongoDB**
+* 🔐 Implementing **JWT Authentication & Role-Based Authorization**
+* 🚀 Building real-world, production-oriented applications
+* 🧠 Strengthening **DSA, OOP & Core Computer Science concepts**
 
-**⚡ Fun fact:** I think in tensors and dream in gradients!
+**⚡ Fun fact:** I enjoy turning an idea into a working application from frontend to backend!
 
 </td>
+
 <td width="45%">
 
 ```python
-class KrishGadara:
+class KriskumarGadara:
     def __init__(self):
-        self.name = "Krish Gadara"
-        self.role = "AI & ML Engineer"
+        self.name = "Kriskumar Gadara"
+        self.role = "Software Developer"
         self.location = "Gujarat, India 🇮🇳"
         self.education = "B.Tech IT"
 
     def skills(self):
         return {
-            "languages": ["Python"],
-            "ml": ["Scikit-Learn", "XGBoost"],
-            "dl": ["TensorFlow", "PyTorch"],
-            "nlp": ["HuggingFace", "spaCy"],
-            "cv": ["OpenCV"],
-            "tools": ["Docker", "FastAPI",
-                      "Streamlit", "Git"]
+            "languages": ["C", "C++", "JavaScript", "SQL"],
+            "frontend": ["HTML5", "CSS3", "React.js"],
+            "backend": [
+                "ASP.NET Core Web API",
+                "ASP.NET MVC",
+                "Node.js",
+                "Express.js"
+            ],
+            "databases": ["SQL Server", "MongoDB"],
+            "tools": [
+                "Git", "GitHub", "Postman",
+                "Swagger", "VS Code",
+                "Visual Studio"
+            ]
         }
 
     def motto(self):
-        return "Turning data into intelligence 🚀"
+        return "Building solutions with code 🚀"
 
-me = KrishGadara()
+me = KriskumarGadara()
 ```
 
 </td>
@@ -104,231 +123,207 @@ me = KrishGadara()
 
 <br/>
 
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<!-- TECH STACK SECTION -->
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- TECH STACK SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## 🛠️ &nbsp;Tech Arsenal
+## 🛠️  Tech Arsenal
 
 <br/>
 
 <div align="center">
 
-### 🐍 Core Language
+### 💻 Programming Languages
 
 <br/>
 
-<a href="https://www.python.org/">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="40"/>
+<a href="https://isocpp.org/">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+</a>
+<a href="https://isocpp.org/">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</a>
+<a href="https://www.microsoft.com/en-us/sql-server">
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL"/>
 </a>
 
 <br/><br/>
 
 ---
 
-### 📊 Data Processing & Visualization
+### 🌐 Frontend Development
 
 <br/>
 
 <table>
-  <tr>
-    <td align="center" width="110">
-      <a href="https://numpy.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
-      </a>
-      <br/><b>NumPy</b>
-    </td>
-    <td align="center" width="110">
-      <a href="https://pandas.pydata.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
-      </a>
-      <br/><b>Pandas</b>
-    </td>
-    <td align="center" width="110">
-      <a href="https://matplotlib.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib"/>
-      </a>
-      <br/><b>Matplotlib</b>
-    </td>
-    <td align="center" width="110">
-      <a href="https://seaborn.pydata.org/">
-        <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logoColor=white" width="80" height="28" alt="Seaborn"/>
-      </a>
-      <br/><b>Seaborn</b>
-    </td>
-    <td align="center" width="110">
-      <a href="https://plotly.com/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" width="48" height="48" alt="Plotly"/>
-      </a>
-      <br/><b>Plotly</b>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="130">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/>
+  </a>
+  <br/><b>HTML5</b>
+</td>
+
+<td align="center" width="130">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/>
+  </a>
+  <br/><b>CSS3</b>
+</td>
+
+<td align="center" width="130">
+  <a href="https://react.dev/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React.js"/>
+  </a>
+  <br/><b>React.js</b>
+</td>
+</tr>
 </table>
 
 <br/>
 
 ---
 
-### 🤖 Machine Learning
+### ⚙️ Backend Development
 
 <br/>
 
 <table>
-  <tr>
-    <td align="center" width="130">
-      <a href="https://scikit-learn.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-Learn"/>
-      </a>
-      <br/><b>Scikit-Learn</b>
-    </td>
-    <td align="center" width="130">
-      <a href="https://xgboost.readthedocs.io/">
-        <img src="https://img.shields.io/badge/XGBoost-EC4E20?style=flat-square&logo=xgboost&logoColor=white" width="80" height="28" alt="XGBoost"/>
-      </a>
-      <br/><b>XGBoost</b>
-    </td>
-    <td align="center" width="130">
-      <a href="https://lightgbm.readthedocs.io/">
-        <img src="https://img.shields.io/badge/LightGBM-2980B9?style=flat-square&logoColor=white" width="80" height="28" alt="LightGBM"/>
-      </a>
-      <br/><b>LightGBM</b>
-    </td>
-  </tr>
+<tr>
+
+<td align="center" width="160">
+  <a href="https://dotnet.microsoft.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt="ASP.NET Core"/>
+  </a>
+  <br/><b>ASP.NET Core</b>
+</td>
+
+<td align="center" width="160">
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/mvc">
+    <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" width="100" height="28" alt="ASP.NET MVC"/>
+  </a>
+  <br/><b>ASP.NET MVC</b>
+</td>
+
+<td align="center" width="160">
+  <a href="https://nodejs.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/>
+  </a>
+  <br/><b>Node.js</b>
+</td>
+
+<td align="center" width="160">
+  <a href="https://expressjs.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48" height="48" alt="Express.js"/>
+  </a>
+  <br/><b>Express.js</b>
+</td>
+
+</tr>
 </table>
 
 <br/>
 
 ---
 
-### 🧠 Deep Learning
+### 🗄️ Databases
 
 <br/>
 
 <table>
-  <tr>
-    <td align="center" width="130">
-      <a href="https://www.tensorflow.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow"/>
-      </a>
-      <br/><b>TensorFlow</b>
-    </td>
-    <td align="center" width="130">
-      <a href="https://keras.io/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="48" height="48" alt="Keras"/>
-      </a>
-      <br/><b>Keras</b>
-    </td>
-    <td align="center" width="130">
-      <a href="https://pytorch.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch"/>
-      </a>
-      <br/><b>PyTorch</b>
-    </td>
-  </tr>
+<tr>
+
+<td align="center" width="160">
+  <a href="https://www.microsoft.com/en-us/sql-server">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server"/>
+  </a>
+  <br/><b>SQL Server</b>
+</td>
+
+<td align="center" width="160">
+  <a href="https://www.mongodb.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"/>
+  </a>
+  <br/><b>MongoDB</b>
+</td>
+
+</tr>
 </table>
 
 <br/>
 
 ---
 
-### 🗣️ Natural Language Processing
+### 🔗 APIs & Development Tools
 
 <br/>
 
 <table>
-  <tr>
-    <td align="center" width="130">
-      <a href="https://www.nltk.org/">
-        <img src="https://img.shields.io/badge/NLTK-154F3C?style=flat-square&logoColor=white" width="60" height="28" alt="NLTK"/>
-      </a>
-      <br/><b>NLTK</b>
-    </td>
-    <td align="center" width="130">
-      <a href="https://spacy.io/">
-        <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" width="60" height="28" alt="spaCy"/>
-      </a>
-      <br/><b>spaCy</b>
-    </td>
-    <td align="center" width="130">
-      <a href="https://huggingface.co/">
-        <img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square&logoColor=black" width="100" height="28" alt="HuggingFace"/>
-      </a>
-      <br/><b>HuggingFace</b>
-    </td>
-  </tr>
+<tr>
+
+<td align="center" width="120">
+  <img src="https://img.shields.io/badge/REST-APIs-6C63FF?style=flat-square" width="85" height="28" alt="REST APIs"/>
+  <br/><b>REST APIs</b>
+</td>
+
+<td align="center" width="120">
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" width="70" height="28" alt="JWT"/>
+  <br/><b>JWT</b>
+</td>
+
+<td align="center" width="120">
+  <a href="https://www.postman.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="48" height="48" alt="Postman"/>
+  </a>
+  <br/><b>Postman</b>
+</td>
+
+<td align="center" width="120">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" width="80" height="28" alt="Swagger"/>
+  <br/><b>Swagger</b>
+</td>
+
+<td align="center" width="120">
+  <a href="https://git-scm.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
+  </a>
+  <br/><b>Git</b>
+</td>
+
+<td align="center" width="120">
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" width="70" height="28" alt="GitHub"/>
+  </a>
+  <br/><b>GitHub</b>
+</td>
+
+<td align="center" width="120">
+  <a href="https://code.visualstudio.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/>
+  </a>
+  <br/><b>VS Code</b>
+</td>
+
+<td align="center" width="120">
+  <a href="https://visualstudio.microsoft.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="48" height="48" alt="Visual Studio"/>
+  </a>
+  <br/><b>Visual Studio</b>
+</td>
+
+</tr>
 </table>
 
 <br/>
-
----
-
-### 👁️ Computer Vision
-
-<br/>
-
-<table>
-  <tr>
-    <td align="center" width="130">
-      <a href="https://opencv.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV"/>
-      </a>
-      <br/><b>OpenCV</b>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
----
-
-### ⚙️ Deployment & DevTools
-
-<br/>
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://fastapi.tiangolo.com/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI"/>
-      </a>
-      <br/><b>FastAPI</b>
-    </td>
-    <td align="center" width="96">
-      <a href="https://streamlit.io/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" width="48" height="48" alt="Streamlit"/>
-      </a>
-      <br/><b>Streamlit</b>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.docker.com/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/>
-      </a>
-      <br/><b>Docker</b>
-    </td>
-    <td align="center" width="96">
-      <a href="https://git-scm.com/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
-      </a>
-      <br/><b>Git</b>
-    </td>
-    <td align="center" width="96">
-      <a href="https://jupyter.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" alt="Jupyter"/>
-      </a>
-      <br/><b>Jupyter</b>
-    </td>
-    <td align="center" width="96">
-      <a href="https://github.com/">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" width="70" height="28" alt="GitHub"/>
-      </a>
-      <br/><b>GitHub</b>
-    </td>
-  </tr>
-</table>
 
 </div>
 
@@ -339,10 +334,12 @@ me = KrishGadara()
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
+
 <!-- GITHUB STATS SECTION -->
+
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## 📊 &nbsp;GitHub Analytics
+## 📊  GitHub Analytics
 
 <br/>
 
@@ -359,23 +356,24 @@ me = KrishGadara()
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
+
 <!-- PROJECTS SECTION -->
+
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## 🚀 &nbsp;Featured Projects
+## 🚀  Featured Projects
 
 <br/>
 
 <div align="center">
 
-| 🏷️ Domain               | 🎯 Focus Areas                                    | 🔧 Technologies                     |
-| :---------------------- | :------------------------------------------------ | :---------------------------------- |
-| 🔬 **Machine Learning** | Regression, Classification, Clustering            | `Scikit-Learn` `XGBoost` `LightGBM` |
-| 🧠 **Deep Learning**    | CNN, ANN, Transfer Learning                       | `TensorFlow` `Keras` `PyTorch`      |
-| 💬 **NLP**              | Text Classification, Sentiment Analysis, Chatbots | `HuggingFace` `spaCy` `NLTK`        |
-| 👁️ **Computer Vision**  | Image Classification, Object Detection            | `OpenCV` `TensorFlow`               |
-| 📊 **Data Analytics**   | EDA, Feature Engineering, Visualization           | `Pandas` `Matplotlib` `Plotly`      |
-| 🌐 **Deployment**       | REST APIs, Web Apps, Containerization             | `FastAPI` `Streamlit` `Docker`      |
+| 🏷️ Project                    | 🎯 Focus Areas                            | 🔧 Technologies                             |
+| :----------------------------- | :---------------------------------------- | :------------------------------------------ |
+| 💼 **SmartHire**               | Recruitment & Interview Management        | `.NET` `C#` `SQL Server` `JWT`              |
+| 🎫 **Event Management System** | Event Creation, Registration & Management | `React.js` `Node.js` `Express.js` `MongoDB` |
+| 🛒 **SmartKart**               | Full-Stack E-Commerce Application         | `React.js` `Node.js` `Express.js` `MongoDB` |
+| 🔐 **Authentication Systems**  | JWT & Role-Based Authorization            | `ASP.NET Core` `JWT` `REST APIs`            |
+| 🌐 **REST API Development**    | Scalable Backend Services                 | `ASP.NET Core` `Node.js` `Swagger`          |
 
 </div>
 
@@ -394,22 +392,68 @@ me = KrishGadara()
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- WHAT I'M WORKING ON -->
+
+<!-- EXPERIENCE SECTION -->
+
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## 🔭 &nbsp;What I'm Currently Working On
+## 💼  Experience
 
 <br/>
 
 <div align="center">
 
-```
-🧠 Exploring Large Language Models (LLMs) & Generative AI
-📚 Deepening knowledge of Transformer architectures
-🔨 Building end-to-end ML pipelines with MLOps practices
-🤖 Creating AI-powered applications with Streamlit & FastAPI
-📊 Advanced data visualization & storytelling
-🌍 Contributing to open-source AI/ML projects
+### 🔹 .NET Web Development Intern
+
+**CODTECH IT Solutions**
+`Jul 2026 – Aug 2026`
+
+Completed a 4-week internship focused on **.NET Web Development**, gaining practical experience through training and development assignments.
+
+<br/>
+
+### 🔹 Full Stack Development Intern
+
+**Zidio Development**
+`Jun 2025 – Jul 2025`
+
+Worked on **SmartKart**, a full-stack e-commerce web application using **React.js, Node.js, Express.js, and MongoDB**.
+
+Implemented:
+
+* 🔐 Authentication
+* 📦 Product Management
+* 🛒 Shopping Cart
+* 🔗 RESTful APIs
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<!-- WHAT I'M WORKING ON -->
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 🔭  What I'm Currently Working On
+
+<br/>
+
+<div align="center">
+
+```text
+💻 Building full-stack web applications
+⚙️ Developing RESTful APIs with ASP.NET Core & Node.js
+⚛️ Improving React.js frontend development
+🗄️ Working with SQL Server & MongoDB
+🔐 Learning advanced authentication & authorization
+🧠 Strengthening Data Structures & Algorithms
+🚀 Preparing for Software Development opportunities
 ```
 
 </div>
@@ -421,31 +465,39 @@ me = KrishGadara()
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
+
 <!-- CONNECT SECTION -->
+
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## 🤝 &nbsp;Let's Connect
+## 🤝  Let's Connect
 
 <br/>
 
 <div align="center">
 
-I'm always excited to collaborate on interesting AI/ML projects and connect with fellow developers!
+I'm always excited to build interesting software projects and connect with fellow developers!
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/kriskumar-gadara-1580b9343" target="_blank">
   <img src="https://img.shields.io/badge/-%20LinkedIn%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="42"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+
+   
+
 <a href="mailto:krishgadara0701@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-%20Gmail%20-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="42"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+
+   
+
 <a href="https://kris-gadara-portfolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/-%20Portfolio%20-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="42"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+
+   
+
 <a href="https://github.com/Kris-gadara" target="_blank">
   <img src="https://img.shields.io/badge/-%20GitHub%20-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="42"/>
 </a>
@@ -483,21 +535,21 @@ I'm always excited to collaborate on interesting AI/ML projects and connect with
 <br/><br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
+
 <!-- FOOTER -->
+
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
----
-
 <div align="center">
-  
-  **⭐ If you find my work interesting, consider giving a star to my repositories!**
-  
+
+**⭐ If you find my work interesting, consider giving a star to my repositories!**
+
   <br/>
-  
-  <img src="https://img.shields.io/badge/Made_with-🐍_Python_&_❤️_Passion-6C63FF?style=for-the-badge" alt="Made with Python & Passion"/>
-  
-  <br/><br/>
-  
-  <i>"Turning data into intelligence — one model at a time."</i> 🚀
+
+  <img src="https://img.shields.io/badge/Made_with-C%2B%2B_&_JavaScript_&_C%23-6C63FF?style=for-the-badge" alt="Made with Code & Passion"/>
+
+<br/><br/>
+
+<i>"Building solutions with code — one application at a time."</i> 🚀
 
 </div>
